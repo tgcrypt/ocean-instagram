@@ -1,0 +1,18 @@
+.default-style .ocean-instagram-picture { margin-left: 30px; margin-right: 0; }
+.default-style .ocean-instagram-username .ocean-instagram-follow { margin-right: 20px; margin-left: 0; }
+.default-style .ocean-instagram-posts li { margin-left: 40px; margin-right: 0; }
+.default-style .ocean-instagram-posts li:last-child { margin-left: 0; }
+.widget-style .ocean-instagram-header .ocean-instagram-name { margin-right: 14px; margin-left: 0; padding-left: 40px; padding-right: 0; }
+.widget-style .ocean-instagram-header .ocean-instagram-header-logo { left: 12px; right: auto; }
+.widget-style .ocean-instagram-posts li { margin-left: 15px; margin-right: 0; }
+.widget-style .ocean-instagram-posts li:last-child { margin-left: 0; }
+
+@media (max-width: 735px) {
+	.default-style .ocean-instagram-picture { margin-left: 28px; margin-right: 0; }
+	.default-style .ocean-instagram-username .ocean-instagram-follow { margin-right: 0; }
+	.default-style .ocean-instagram-posts li { margin-left: 0; }
+}
+
+.ocean-instagram-comments { margin-right: 2em; margin-left: 0; }
+.ocean-instagram-data.no-likes .ocean-instagram-comments { margin-right: 0; }
+.ocean-instagram-icon em { margin-right: .3em; margin-left: 0; }

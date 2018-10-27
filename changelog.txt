@@ -1,0 +1,12 @@
+= 1.0.3 =
+- Fixed: Generated shortcode didn't show up.
+
+= 1.0.2 =
+- Added: Polish translation, thanks to Fin Fafarafiel.
+- Tweak: Better approch for calling the metabox scripts.
+
+= 1.0.1 =
+- Fixed: followers and following issue.
+
+= 1.0.0 =
+- Initial release.

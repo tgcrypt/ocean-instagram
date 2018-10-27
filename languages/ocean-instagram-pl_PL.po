@@ -1,0 +1,336 @@
+# Copyright (C) 2017 OceanWP
+# This file is distributed under the same license as the Ocean Instagram package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Instagram 1.0.1\n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/\n"
+"POT-Creation-Date: 2017-12-24 15:21:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-04-11 11:05+0200\n"
+"Language-Team: OceanWP\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-instagram-settings.php:31 admin/class-instagram-settings.php:42
+#: admin/class-instagram-settings.php:105
+#: admin/class-shortcode-generator.php:68
+msgid "Instagram Settings"
+msgstr "Ustawienia Instagram"
+
+#: admin/class-instagram-settings.php:32
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/class-instagram-settings.php:43
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: admin/class-instagram-settings.php:77
+msgid "Access Token"
+msgstr "Token dostępu"
+
+#: admin/class-instagram-settings.php:111
+msgid "Connect Instagram"
+msgstr "Podłącz instagram"
+
+#: admin/class-instagram-settings.php:113
+msgid ""
+"Before get started, please %1$sfollow this article%2$s to get your Access "
+"Token."
+msgstr ""
+"Zanim zaczniesz %1$sprzeczytaj ten artykuł%2$s aby otrzymać token dostępu"
+
+#: admin/class-instagram-settings.php:118
+msgid "Update Settings"
+msgstr "Ustawienia aktualizacji"
+
+#: admin/class-register-cpt.php:26 admin/class-register-cpt.php:57
+#: admin/class-register-cpt.php:58
+msgid "Shortcodes"
+msgstr "Shortcody"
+
+#: admin/class-register-cpt.php:27 admin/class-shortcode-generator.php:656
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-register-cpt.php:28
+msgid "Add New Shortcode"
+msgstr "Dodaj nowy Shortcode"
+
+#: admin/class-register-cpt.php:29
+msgid "No shortcodes found."
+msgstr "Nie znaleziono Shortcodów."
+
+#: admin/class-register-cpt.php:30
+msgid "No shortcodes found in trash"
+msgstr "Nie znaleziono Shortcodów w koszu"
+
+#: admin/class-shortcode-generator.php:80
+msgid "General"
+msgstr "Ogólne"
+
+#: admin/class-shortcode-generator.php:90
+msgid "Style"
+msgstr "Styl"
+
+#: admin/class-shortcode-generator.php:91
+msgid "Select your style."
+msgstr "Wybierz swój styl"
+
+#: admin/class-shortcode-generator.php:93
+msgid "Default Style"
+msgstr "Styl domyślny"
+
+#: admin/class-shortcode-generator.php:94
+msgid "Widget Style"
+msgstr "Styl widżetu"
+
+#: admin/class-shortcode-generator.php:112
+msgid "Number of images"
+msgstr "Ilość obrazów"
+
+#: admin/class-shortcode-generator.php:113
+msgid "The number of images you want to show"
+msgstr "Ilość obrazów które chcesz wyświetlić"
+
+#: admin/class-shortcode-generator.php:133
+#: admin/class-shortcode-generator.php:496
+#: admin/class-shortcode-generator.php:572
+msgid "Number of columns"
+msgstr "Ilość kolumn"
+
+#: admin/class-shortcode-generator.php:134
+#: admin/class-shortcode-generator.php:497
+#: admin/class-shortcode-generator.php:573
+msgid "The number of columns you want. Maximum 10."
+msgstr "Ilość kolumn. Maksymalnie 10."
+
+#: admin/class-shortcode-generator.php:156
+msgid "Likes"
+msgstr "Polubienia"
+
+#: admin/class-shortcode-generator.php:157
+msgid "Display likes."
+msgstr "Pokaż polubienia"
+
+#: admin/class-shortcode-generator.php:159
+#: admin/class-shortcode-generator.php:181
+#: admin/class-shortcode-generator.php:203
+#: admin/class-shortcode-generator.php:254
+#: admin/class-shortcode-generator.php:276
+#: admin/class-shortcode-generator.php:298
+#: admin/class-shortcode-generator.php:320
+#: admin/class-shortcode-generator.php:342
+msgid "On"
+msgstr "Włączone"
+
+#: admin/class-shortcode-generator.php:160
+#: admin/class-shortcode-generator.php:182
+#: admin/class-shortcode-generator.php:204
+#: admin/class-shortcode-generator.php:255
+#: admin/class-shortcode-generator.php:277
+#: admin/class-shortcode-generator.php:299
+#: admin/class-shortcode-generator.php:321
+#: admin/class-shortcode-generator.php:343
+msgid "Off"
+msgstr "Wyłączone"
+
+#: admin/class-shortcode-generator.php:178
+msgid "Comments"
+msgstr "Komentarze"
+
+#: admin/class-shortcode-generator.php:179
+msgid "Display comments."
+msgstr "Pokaż komentarze"
+
+#: admin/class-shortcode-generator.php:200
+msgid "Caption"
+msgstr "Podpis"
+
+#: admin/class-shortcode-generator.php:201
+msgid "Display caption."
+msgstr "Pokaż podpis"
+
+#: admin/class-shortcode-generator.php:222
+msgid "Limit Caption"
+msgstr "Ogranicz podpis"
+
+#: admin/class-shortcode-generator.php:223
+msgid "The number of words you want to show"
+msgstr "Ilość słów które chcesz wyświetlić"
+
+#: admin/class-shortcode-generator.php:241
+msgid "User Infos"
+msgstr "Informacje użytkownika"
+
+#: admin/class-shortcode-generator.php:251
+msgid "Display avatar"
+msgstr "Pokaż avatar"
+
+#: admin/class-shortcode-generator.php:252
+msgid "Display your Instagram avatar."
+msgstr "Pokaż swój avatar Instagram"
+
+#: admin/class-shortcode-generator.php:273
+msgid "Display username"
+msgstr "Pokaż nazwę użytkownika"
+
+#: admin/class-shortcode-generator.php:274
+msgid "Display your Instagram username."
+msgstr "Pokaż swoją nazwę użytkownika Instagram"
+
+#: admin/class-shortcode-generator.php:295
+#, fuzzy
+msgid "Display follow button"
+msgstr "Pokaż przycisk \"Obserwuj\""
+
+#: admin/class-shortcode-generator.php:296
+#, fuzzy
+msgid "Display a follow button."
+msgstr "Pokaż przycisk \"Obserwuj\""
+
+#: admin/class-shortcode-generator.php:317
+msgid "Display posts and followers"
+msgstr "Pokaż wpisy i obserwujących"
+
+#: admin/class-shortcode-generator.php:318
+msgid "Display your posts & followers number."
+msgstr "Pokaż twoje posty i ilość obserwujących."
+
+#: admin/class-shortcode-generator.php:339
+msgid "Display biography"
+msgstr "Pokaż biografię"
+
+#: admin/class-shortcode-generator.php:340
+msgid "Display your Instagram biography."
+msgstr "Pokaż swoją biografię z Instagram"
+
+#: admin/class-shortcode-generator.php:359
+msgid "Styling"
+msgstr "Stylowanie"
+
+#: admin/class-shortcode-generator.php:369
+#: admin/class-shortcode-generator.php:519
+#: admin/class-shortcode-generator.php:595
+msgid "Item ratio"
+msgstr "Proporcja obiektu"
+
+#: admin/class-shortcode-generator.php:370
+#: admin/class-shortcode-generator.php:520
+#: admin/class-shortcode-generator.php:596
+msgid "The ratio of your images. Maximum 2."
+msgstr "Proporcja twoich obrazów. Maksymalnie 2."
+
+#: admin/class-shortcode-generator.php:392
+#: admin/class-shortcode-generator.php:542
+#: admin/class-shortcode-generator.php:618
+msgid "Space between images (px)"
+msgstr "Przestrzeń pomiędzy obrazami (px)"
+
+#: admin/class-shortcode-generator.php:393
+#: admin/class-shortcode-generator.php:543
+#: admin/class-shortcode-generator.php:619
+msgid "Space between each images."
+msgstr "Przestrzeń pomiędzy każdym obrazem"
+
+#: admin/class-shortcode-generator.php:414
+msgid "Border Radius"
+msgstr "Zaokrąglenie obramowania"
+
+#: admin/class-shortcode-generator.php:415
+msgid ""
+"Enter your custom border radius for the images.  ex: 2px 1px 2px 1px (Top "
+"Right Bottom Left)."
+msgstr ""
+"Wpisz własne zaokrąglenie obramowania.  np.: 2px 1px 2px 1px (Góra Prawa "
+"Dół Lewo)."
+
+#: admin/class-shortcode-generator.php:431
+msgid "Overlay Background"
+msgstr "Nakładka tła"
+
+#: admin/class-shortcode-generator.php:432
+msgid "Select a hex color code for the overlay, ex: #2196f3"
+msgstr "Wybierz kolor hex dla nakładki, np.: #2196f3"
+
+#: admin/class-shortcode-generator.php:448
+msgid "Overlay Opacity"
+msgstr "Przezroczystość nakładki"
+
+#: admin/class-shortcode-generator.php:449
+msgid "Enter your custom opacity for the overlay. Default is 0.9."
+msgstr "Wprowadź własną przezroczystość nakładki. Domyślna to 0.9."
+
+#: admin/class-shortcode-generator.php:471
+msgid "Overlay Text"
+msgstr "Nakładka tła"
+
+#: admin/class-shortcode-generator.php:472
+msgid "Select a hex color code for the overlay text, ex: #fff"
+msgstr "Wybierz kolor hex dla nakładki tekstu, np.: #fff"
+
+#: admin/class-shortcode-generator.php:486
+msgid "Tablet Device"
+msgstr "Tablet"
+
+#: admin/class-shortcode-generator.php:562
+msgid "Mobile Device"
+msgstr "Urządzenie mobilne"
+
+#: includes/class-instagram-shortcode.php:144
+#: includes/class-instagram-shortcode.php:211
+msgid "Follow"
+msgstr "Obserwuj"
+
+#: includes/class-instagram-shortcode.php:156
+#: includes/class-instagram-shortcode.php:203
+#: includes/class-instagram-shortcode.php:265
+msgid "posts"
+msgstr "wpis"
+
+#: includes/class-instagram-shortcode.php:157
+#: includes/class-instagram-shortcode.php:204
+#: includes/class-instagram-shortcode.php:266
+msgid "followers"
+msgstr "obserwujący"
+
+#: includes/class-instagram-shortcode.php:158
+#: includes/class-instagram-shortcode.php:205
+#: includes/class-instagram-shortcode.php:267
+msgid "following"
+msgstr "obserwuje"
+
+#: ocean-instagram.php:151 ocean-instagram.php:160
+msgid "Cheatin&#8217; huh?"
+msgstr "Oszukujemy&#8217; co?"
+
+#. Plugin Name of the plugin/theme
+msgid "Ocean Instagram"
+msgstr "OceanWP Instagram"
+
+#. Plugin URI of the plugin/theme
+msgid "https://oceanwp.org/extension/ocean-instagram/"
+msgstr "https://oceanwp.org/extension/ocean-instagram/"
+
+#. Description of the plugin/theme
+msgid "Display Instagram feed in a beautiful way."
+msgstr "Pokaż kanał na Instagram w piękny sposób."
+
+#. Author of the plugin/theme
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
